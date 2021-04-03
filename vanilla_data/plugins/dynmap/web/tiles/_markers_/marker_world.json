@@ -1,0 +1,21 @@
+{"sets": {"offline_players": {"hide": true,"circles": {}
+,"areas": {}
+,"label": "Offline","markers": {}
+,"lines": {}
+,"layerprio": 0,"minzoom": 0}
+,"chunky.markerset": {"hide": false,"circles": {}
+,"areas": {"area_1": {"fillcolor": "#000000","ytop": 64.00,"color": "#FF0000","markup": false,"x": [29389.26,-29389.26,-47552.83,-0.00,47552.83]
+,"weight": 3,"z": [40450.85,40450.85,-15450.85,-50000.00,-15450.85]
+,"ybottom": 64.00,"label": "World Border","opacity": 1.00,"fillopacity": 0.00}
+}
+,"label": "World Border","markers": {}
+,"lines": {}
+,"layerprio": 0}
+,"markers": {"hide": false,"circles": {}
+,"areas": {}
+,"label": "Markers","markers": {"_spawn_world": {"markup": false,"x": 0.00,"icon": "world","y": 79.00,"dim": "16x16","z": 0.00,"label": "Spawn"}
+}
+,"lines": {}
+,"layerprio": 0}
+}
+,"timestamp": 1614379276848}

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="e8c4a68a-1cf5-46da-ac23-4a30663798a5" name="Mordrum" url="https://www.mordrum.com">
+        <fileTransfer rootFolder="/home/jesse" accessType="SFTP" host="mordrum" port="22" sshConfigId="a3d6cd46-1b79-4079-96b0-74c75a43b068" sshConfig="jesse@mordrum:22 agent" authAgent="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

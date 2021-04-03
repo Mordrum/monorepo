@@ -1,0 +1,57 @@
+%YAML 1.1
+---
+icons: {
+    }
+sets:
+    offline_players:
+        hide: true
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Offline
+        markers:
+            MeatZombie01:
+                world: world
+                markup: false
+                x: 289.0
+                icon: offlineuser
+                y: 81.0
+                z: -699.0
+                label: MeatZombie01
+            Apriciti:
+                world: world
+                markup: false
+                x: 203.0
+                icon: offlineuser
+                y: 64.0
+                z: -96.0
+                label: Apriciti
+            SirSavary:
+                world: world
+                markup: false
+                x: 277.0
+                icon: offlineuser
+                y: 124.0
+                z: 1648.0
+                label: SirSavary
+        lines: {
+            }
+        layerprio: 0
+        minzoom: 0
+    markers:
+        hide: false
+        circles: {
+            }
+        deficon: default
+        areas: {
+            }
+        label: Markers
+        markers: {
+            }
+        lines: {
+            }
+        layerprio: 0
+playersets: {
+    }

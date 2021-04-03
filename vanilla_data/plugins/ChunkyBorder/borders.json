@@ -1,0 +1,10 @@
+{
+  "world": {
+    "world": "world",
+    "centerX": 0,
+    "centerZ": 0,
+    "radiusX": 5000,
+    "radiusZ": 5000,
+    "shape": "pentagon"
+  }
+}

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="OPEN_SSH" host="mordrum" id="a3d6cd46-1b79-4079-96b0-74c75a43b068" port="22" nameFormat="DESCRIPTIVE" username="jesse" />
+    </configs>
+  </component>
+</project>

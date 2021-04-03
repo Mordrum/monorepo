@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="Mordrum" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="Mordrum">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/vanilla_data/worlds" />
+            <excludedPath path="/vanilla_data/plugins/dynmap/web/tiles/faces" />
+            <excludedPath path="/vanilla_data/logs" />
+            <excludedPath path="/vanilla_data/cache" />
+            <excludedPath path="/vanilla_data/plugins/dynmap/web/tiles/world" />
+            <excludedPath path="/vanilla_data/plugins/dynmap/web/tiles/world_the_end" />
+            <excludedPath path="/vanilla_data/plugins/dynmap/web/tiles/world_nether" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

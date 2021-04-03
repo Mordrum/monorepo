@@ -1,0 +1,7 @@
+
+
+# This file is automatically downloaded by our docker image and is not needed inside VCS
+./vanilla_data/paper-*.jar
+
+# Created automatically
+./vanilla_data/plugins/dynmap/web
