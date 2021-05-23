@@ -1,0 +1,80 @@
+world:
+  event_commands:
+    player_arrested: []
+    player_escaped: []
+    player_released: []
+    player_wanted: []
+    npc_warning: []
+    npc_alertguards: []
+    npc_noguards: []
+    npc_murdered: []
+    bounty_maximum: []
+world_the_end:
+  event_commands:
+    player_arrested: []
+    player_escaped: []
+    player_released: []
+    player_wanted: []
+    npc_warning: []
+    npc_alertguards: []
+    npc_noguards: []
+    npc_murdered: []
+    bounty_maximum: []
+world_nether:
+  event_commands:
+    player_arrested: []
+    player_escaped: []
+    player_released: []
+    player_wanted: []
+    npc_warning: []
+    npc_alertguards: []
+    npc_noguards: []
+    npc_murdered: []
+    bounty_maximum: []
+_GlobalSettings:
+  bounty:
+    damage: 76.0
+    escaped: 1500.0
+    murder: 2400.0
+    jailed_pvp: 10.0
+  respawn:
+    arrest: false
+  times:
+    jailed_bounty: -20.0
+    escaped_bounty: 1.0
+    wanted_bounty: 0.0
+    outofcell_day: 0.0
+    outofcell_night: 0.0
+  wanted:
+    min: NONE
+    max: HIGH
+  npc:
+    max_warning_damage: 3
+    max_distance_guard: 25
+    protect_only_assigned: false
+    min_bounty_wanted: 0
+    monitor_pvp: false
+    los_attack: false
+  player_notices:
+    escaped:
+      distance: 125
+      delay: 0.2
+    arrested:
+      distance: 125
+      delay: 0.4
+    murder:
+      distance: 125
+      delay: 0.3
+  inventory:
+    takeonarrest: false
+    returnonfree: true
+  event_commands:
+    player_arrested: []
+    player_escaped: []
+    player_released: []
+    player_wanted: []
+    npc_warning: []
+    npc_alertguards: []
+    npc_noguards: []
+    npc_murdered: []
+    bounty_maximum: []

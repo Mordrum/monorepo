@@ -4,4 +4,15 @@
 ./vanilla_data/paper-*.jar
 
 # Created automatically
-./vanilla_data/plugins/dynmap/web
+/vanilla_data/plugins/dynmap/web
+
+# Temporary files and logs
+/vanilla_data/plugins/WorldEdit/.archive-unpack/
+/vanilla_data/plugins/Towny/backup/
+/vanilla_data/plugins/Towny/logs/
+/vanilla_data/plugins/Ships/VesselData/ships.*/
+/vanilla_data/plugins/NPC_Police/jailerdata.db
+/vanilla_data/plugins/WorldGuard/cache/
+/vanilla_data/plugins/BKCommonLib/resourcepacks/
+/vanilla_data/plugins/BKCommonLib/minecraft/
+/vanilla_data/plugins/WorldEdit/sessions/

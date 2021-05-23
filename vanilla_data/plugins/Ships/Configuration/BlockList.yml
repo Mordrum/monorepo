@@ -1,0 +1,3054 @@
+BlockList:
+  minecraft:
+    purple_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_banner
+      BlockLimit: '-1'
+    redstone_torch:
+      CollideType: MATERIAL
+      BlockType: minecraft:redstone_torch
+      BlockLimit: '-1'
+    light_gray_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_wall_banner
+      BlockLimit: '-1'
+    gray_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_banner
+      BlockLimit: '-1'
+    dark_oak_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_sign
+      BlockLimit: '-1'
+    black_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_wall_banner
+      BlockLimit: '-1'
+    magenta_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_wall_banner
+      BlockLimit: '-1'
+    birch_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_sign
+      BlockLimit: '-1'
+    heavy_weighted_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:heavy_weighted_pressure_plate
+      BlockLimit: '-1'
+    blue_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_wall_banner
+      BlockLimit: '-1'
+    yellow_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_banner
+      BlockLimit: '-1'
+    dark_oak_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_wall_sign
+      BlockLimit: '-1'
+    acacia_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_sign
+      BlockLimit: '-1'
+    oak_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_wall_sign
+      BlockLimit: '-1'
+    light_blue_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_banner
+      BlockLimit: '-1'
+    cyan_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_banner
+      BlockLimit: '-1'
+    dark_oak_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_pressure_plate
+      BlockLimit: '-1'
+    jungle_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_wall_sign
+      BlockLimit: '-1'
+    warped_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:warped_sign
+      BlockLimit: '-1'
+    jungle_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_sign
+      BlockLimit: '-1'
+    crimson_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:crimson_wall_sign
+      BlockLimit: '-1'
+    birch_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_wall_sign
+      BlockLimit: '-1'
+    birch_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_pressure_plate
+      BlockLimit: '-1'
+    purple_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_wall_banner
+      BlockLimit: '-1'
+    white_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_banner
+      BlockLimit: '-1'
+    light_gray_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_banner
+      BlockLimit: '-1'
+    black_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_banner
+      BlockLimit: '-1'
+    spruce_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_pressure_plate
+      BlockLimit: '-1'
+    orange_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_wall_banner
+      BlockLimit: '-1'
+    green_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_wall_banner
+      BlockLimit: '-1'
+    white_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_wall_banner
+      BlockLimit: '-1'
+    magenta_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_banner
+      BlockLimit: '-1'
+    oak_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_sign
+      BlockLimit: '-1'
+    yellow_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_wall_banner
+      BlockLimit: '-1'
+    warped_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:warped_pressure_plate
+      BlockLimit: '-1'
+    cyan_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_wall_banner
+      BlockLimit: '-1'
+    spruce_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_sign
+      BlockLimit: '-1'
+    lime_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_wall_banner
+      BlockLimit: '-1'
+    oak_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_pressure_plate
+      BlockLimit: '-1'
+    soul_torch:
+      CollideType: MATERIAL
+      BlockType: minecraft:soul_torch
+      BlockLimit: '-1'
+    red_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_wall_banner
+      BlockLimit: '-1'
+    light_blue_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_wall_banner
+      BlockLimit: '-1'
+    acacia_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_pressure_plate
+      BlockLimit: '-1'
+    orange_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_banner
+      BlockLimit: '-1'
+    acacia_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_wall_sign
+      BlockLimit: '-1'
+    torch:
+      CollideType: MATERIAL
+      BlockType: minecraft:torch
+      BlockLimit: '-1'
+    stone_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:stone_pressure_plate
+      BlockLimit: '-1'
+    brown_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_wall_banner
+      BlockLimit: '-1'
+    tripwire:
+      CollideType: MATERIAL
+      BlockType: minecraft:tripwire
+      BlockLimit: '-1'
+    red_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_banner
+      BlockLimit: '-1'
+    blue_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_banner
+      BlockLimit: '-1'
+    light_weighted_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_weighted_pressure_plate
+      BlockLimit: '-1'
+    jungle_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_pressure_plate
+      BlockLimit: '-1'
+    pink_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_banner
+      BlockLimit: '-1'
+    warped_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:warped_wall_sign
+      BlockLimit: '-1'
+    crimson_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:crimson_pressure_plate
+      BlockLimit: '-1'
+    polished_blackstone_pressure_plate:
+      CollideType: MATERIAL
+      BlockType: minecraft:polished_blackstone_pressure_plate
+      BlockLimit: '-1'
+    spruce_wall_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_wall_sign
+      BlockLimit: '-1'
+    pink_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_wall_banner
+      BlockLimit: '-1'
+    green_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_banner
+      BlockLimit: '-1'
+    brown_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_banner
+      BlockLimit: '-1'
+    gray_wall_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_wall_banner
+      BlockLimit: '-1'
+    crimson_sign:
+      CollideType: MATERIAL
+      BlockType: minecraft:crimson_sign
+      BlockLimit: '-1'
+    lime_banner:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_banner
+      BlockLimit: '-1'
+    chipped_anvil:
+      CollideType: MATERIAL
+      BlockType: minecraft:chipped_anvil
+      BlockLimit: '-1'
+    anvil:
+      CollideType: MATERIAL
+      BlockType: minecraft:anvil
+      BlockLimit: '-1'
+    damaged_anvil:
+      CollideType: MATERIAL
+      BlockType: minecraft:damaged_anvil
+      BlockLimit: '-1'
+    black_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_shulker_box
+      BlockLimit: '-1'
+    blue_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_shulker_box
+      BlockLimit: '-1'
+    brown_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_shulker_box
+      BlockLimit: '-1'
+    cyan_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_shulker_box
+      BlockLimit: '-1'
+    gray_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_shulker_box
+      BlockLimit: '-1'
+    green_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_shulker_box
+      BlockLimit: '-1'
+    light_blue_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_shulker_box
+      BlockLimit: '-1'
+    lime_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_shulker_box
+      BlockLimit: '-1'
+    magenta_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_shulker_box
+      BlockLimit: '-1'
+    orange_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_shulker_box
+      BlockLimit: '-1'
+    pink_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_shulker_box
+      BlockLimit: '-1'
+    purple_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_shulker_box
+      BlockLimit: '-1'
+    red_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_shulker_box
+      BlockLimit: '-1'
+    white_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_shulker_box
+      BlockLimit: '-1'
+    yellow_shulker_box:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_shulker_box
+      BlockLimit: '-1'
+    acacia_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_fence
+      BlockLimit: '-1'
+    birch_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_fence
+      BlockLimit: '-1'
+    dark_oak_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_fence
+      BlockLimit: '-1'
+    jungle_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_fence
+      BlockLimit: '-1'
+    nether_brick_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:nether_brick_fence
+      BlockLimit: '-1'
+    oak_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_fence
+      BlockLimit: '-1'
+    spruce_fence:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_fence
+      BlockLimit: '-1'
+    acacia_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_fence_gate
+      BlockLimit: '-1'
+    birch_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_fence_gate
+      BlockLimit: '-1'
+    dark_oak_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_fence_gate
+      BlockLimit: '-1'
+    jungle_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_fence_gate
+      BlockLimit: '-1'
+    oak_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_fence_gate
+      BlockLimit: '-1'
+    spruce_fence_gate:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_fence_gate
+      BlockLimit: '-1'
+    iron_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:iron_door
+      BlockLimit: '-1'
+    dark_oak_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_door
+      BlockLimit: '-1'
+    oak_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_door
+      BlockLimit: '-1'
+    acacia_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_door
+      BlockLimit: '-1'
+    birch_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_door
+      BlockLimit: '-1'
+    jungle_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_door
+      BlockLimit: '-1'
+    spruce_door:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_door
+      BlockLimit: '-1'
+    sticky_piston:
+      CollideType: MATERIAL
+      BlockType: minecraft:sticky_piston
+      BlockLimit: '-1'
+    piston_head:
+      CollideType: MATERIAL
+      BlockType: minecraft:piston_head
+      BlockLimit: '-1'
+    moving_piston:
+      CollideType: MATERIAL
+      BlockType: minecraft:moving_piston
+      BlockLimit: '-1'
+    jukebox:
+      CollideType: MATERIAL
+      BlockType: minecraft:jukebox
+      BlockLimit: '-1'
+    lever:
+      CollideType: MATERIAL
+      BlockType: minecraft:lever
+      BlockLimit: '-1'
+    ladder:
+      CollideType: MATERIAL
+      BlockType: minecraft:ladder
+      BlockLimit: '-1'
+    crafting_table:
+      CollideType: MATERIAL
+      BlockType: minecraft:crafting_table
+      BlockLimit: '-1'
+    bricks:
+      CollideType: MATERIAL
+      BlockType: minecraft:bricks
+      BlockLimit: '-1'
+    tnt:
+      CollideType: MATERIAL
+      BlockType: minecraft:tnt
+      BlockLimit: '-1'
+    bookshelf:
+      CollideType: MATERIAL
+      BlockType: minecraft:bookshelf
+      BlockLimit: '-1'
+    gold_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:gold_block
+      BlockLimit: '-1'
+    iron_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:iron_block
+      BlockLimit: '-1'
+    diamond_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:diamond_block
+      BlockLimit: '-1'
+    note_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:note_block
+      BlockLimit: '-1'
+    dispenser:
+      CollideType: MATERIAL
+      BlockType: minecraft:dispenser
+      BlockLimit: '-1'
+    lapis_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:lapis_block
+      BlockLimit: '-1'
+    glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:glass
+      BlockLimit: '-1'
+    furnace:
+      CollideType: MATERIAL
+      BlockType: minecraft:furnace
+      BlockLimit: '-1'
+    chest:
+      CollideType: MATERIAL
+      BlockType: minecraft:chest
+      BlockLimit: '-1'
+    ender_chest:
+      CollideType: MATERIAL
+      BlockType: minecraft:ender_chest
+      BlockLimit: '-1'
+    trapped_chest:
+      CollideType: MATERIAL
+      BlockType: minecraft:trapped_chest
+      BlockLimit: '-1'
+    glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:glass_pane
+      BlockLimit: '-1'
+    fire:
+      CollideType: MATERIAL
+      BlockType: minecraft:fire
+      BlockLimit: '-1'
+    netherrack:
+      CollideType: MATERIAL
+      BlockType: minecraft:netherrack
+      BlockLimit: '-1'
+    enchanting_table:
+      CollideType: MATERIAL
+      BlockType: minecraft:enchanting_table
+      BlockLimit: '-1'
+    redstone_lamp:
+      CollideType: MATERIAL
+      BlockType: minecraft:redstone_lamp
+      BlockLimit: '-1'
+    emerald_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:emerald_block
+      BlockLimit: '-1'
+    beacon:
+      CollideType: MATERIAL
+      BlockType: minecraft:beacon
+      BlockLimit: '-1'
+    daylight_detector:
+      CollideType: MATERIAL
+      BlockType: minecraft:daylight_detector
+      BlockLimit: '-1'
+    hopper:
+      CollideType: MATERIAL
+      BlockType: minecraft:hopper
+      BlockLimit: '-1'
+    dropper:
+      CollideType: MATERIAL
+      BlockType: minecraft:dropper
+      BlockLimit: '-1'
+    hay_block:
+      CollideType: MATERIAL
+      BlockType: minecraft:hay_block
+      BlockLimit: '-1'
+    observer:
+      CollideType: MATERIAL
+      BlockType: minecraft:observer
+      BlockLimit: '-1'
+    redstone_wire:
+      CollideType: MATERIAL
+      BlockType: minecraft:redstone_wire
+      BlockLimit: '-1'
+    cauldron:
+      CollideType: MATERIAL
+      BlockType: minecraft:cauldron
+      BlockLimit: '-1'
+    cave_air:
+      CollideType: IGNORE
+      BlockType: minecraft:cave_air
+      BlockLimit: '-1'
+    tall_grass:
+      CollideType: IGNORE
+      BlockType: minecraft:tall_grass
+      BlockLimit: '-1'
+    spruce_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_log
+      BlockLimit: '-1'
+    oak_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_log
+      BlockLimit: '-1'
+    jungle_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_log
+      BlockLimit: '-1'
+    birch_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_log
+      BlockLimit: '-1'
+    dark_oak_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_log
+      BlockLimit: '-1'
+    acacia_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_log
+      BlockLimit: '-1'
+    stripped_spruce_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_spruce_log
+      BlockLimit: '-1'
+    stripped_oak_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_oak_log
+      BlockLimit: '-1'
+    stripped_jungle_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_jungle_log
+      BlockLimit: '-1'
+    stripped_birch_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_birch_log
+      BlockLimit: '-1'
+    stripped_dark_oak_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_dark_oak_log
+      BlockLimit: '-1'
+    stripped_acacia_log:
+      CollideType: MATERIAL
+      BlockType: minecraft:stripped_acacia_log
+      BlockLimit: '-1'
+    spruce_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_planks
+      BlockLimit: '-1'
+    oak_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_planks
+      BlockLimit: '-1'
+    jungle_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_planks
+      BlockLimit: '-1'
+    birch_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_planks
+      BlockLimit: '-1'
+    dark_oak_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_planks
+      BlockLimit: '-1'
+    acacia_planks:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_planks
+      BlockLimit: '-1'
+    black_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_carpet
+      BlockLimit: '-1'
+    blue_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_carpet
+      BlockLimit: '-1'
+    brown_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_carpet
+      BlockLimit: '-1'
+    cyan_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_carpet
+      BlockLimit: '-1'
+    gray_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_carpet
+      BlockLimit: '-1'
+    green_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_carpet
+      BlockLimit: '-1'
+    light_blue_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_carpet
+      BlockLimit: '-1'
+    light_gray_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_carpet
+      BlockLimit: '-1'
+    lime_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_carpet
+      BlockLimit: '-1'
+    magenta_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_carpet
+      BlockLimit: '-1'
+    orange_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_carpet
+      BlockLimit: '-1'
+    pink_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_carpet
+      BlockLimit: '-1'
+    purple_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_carpet
+      BlockLimit: '-1'
+    red_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_carpet
+      BlockLimit: '-1'
+    white_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_carpet
+      BlockLimit: '-1'
+    yellow_carpet:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_carpet
+      BlockLimit: '-1'
+    black_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_wool
+      BlockLimit: '-1'
+    blue_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_wool
+      BlockLimit: '-1'
+    brown_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_wool
+      BlockLimit: '-1'
+    cyan_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_wool
+      BlockLimit: '-1'
+    gray_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_wool
+      BlockLimit: '-1'
+    green_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_wool
+      BlockLimit: '-1'
+    light_blue_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_wool
+      BlockLimit: '-1'
+    light_gray_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_wool
+      BlockLimit: '-1'
+    lime_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_wool
+      BlockLimit: '-1'
+    magenta_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_wool
+      BlockLimit: '-1'
+    orange_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_wool
+      BlockLimit: '-1'
+    pink_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_wool
+      BlockLimit: '-1'
+    purple_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_wool
+      BlockLimit: '-1'
+    red_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_wool
+      BlockLimit: '-1'
+    white_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_wool
+      BlockLimit: '-1'
+    yellow_wool:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_wool
+      BlockLimit: '-1'
+    acacia_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_button
+      BlockLimit: '-1'
+    birch_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_button
+      BlockLimit: '-1'
+    dark_oak_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_button
+      BlockLimit: '-1'
+    jungle_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_button
+      BlockLimit: '-1'
+    oak_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_button
+      BlockLimit: '-1'
+    spruce_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_button
+      BlockLimit: '-1'
+    stone_button:
+      CollideType: MATERIAL
+      BlockType: minecraft:stone_button
+      BlockLimit: '-1'
+    black_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_bed
+      BlockLimit: '-1'
+    blue_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_bed
+      BlockLimit: '-1'
+    brown_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_bed
+      BlockLimit: '-1'
+    cyan_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_bed
+      BlockLimit: '-1'
+    gray_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_bed
+      BlockLimit: '-1'
+    green_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_bed
+      BlockLimit: '-1'
+    lime_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_bed
+      BlockLimit: '-1'
+    magenta_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_bed
+      BlockLimit: '-1'
+    orange_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_bed
+      BlockLimit: '-1'
+    pink_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_bed
+      BlockLimit: '-1'
+    purple_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_bed
+      BlockLimit: '-1'
+    red_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_bed
+      BlockLimit: '-1'
+    white_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_bed
+      BlockLimit: '-1'
+    yellow_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_bed
+      BlockLimit: '-1'
+    light_blue_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_bed
+      BlockLimit: '-1'
+    light_gray_bed:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_bed
+      BlockLimit: '-1'
+    black_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_concrete
+      BlockLimit: '-1'
+    blue_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_concrete
+      BlockLimit: '-1'
+    brown_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_concrete
+      BlockLimit: '-1'
+    cyan_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_concrete
+      BlockLimit: '-1'
+    gray_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_concrete
+      BlockLimit: '-1'
+    green_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_concrete
+      BlockLimit: '-1'
+    light_blue_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_concrete
+      BlockLimit: '-1'
+    light_gray_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_concrete
+      BlockLimit: '-1'
+    lime_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_concrete
+      BlockLimit: '-1'
+    magenta_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_concrete
+      BlockLimit: '-1'
+    orange_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_concrete
+      BlockLimit: '-1'
+    pink_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_concrete
+      BlockLimit: '-1'
+    purple_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_concrete
+      BlockLimit: '-1'
+    red_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_concrete
+      BlockLimit: '-1'
+    white_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_concrete
+      BlockLimit: '-1'
+    yellow_concrete:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_concrete
+      BlockLimit: '-1'
+    black_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_concrete_powder
+      BlockLimit: '-1'
+    blue_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_concrete_powder
+      BlockLimit: '-1'
+    brown_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_concrete_powder
+      BlockLimit: '-1'
+    cyan_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_concrete_powder
+      BlockLimit: '-1'
+    gray_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_concrete_powder
+      BlockLimit: '-1'
+    green_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_concrete_powder
+      BlockLimit: '-1'
+    light_blue_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_concrete_powder
+      BlockLimit: '-1'
+    light_gray_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_concrete_powder
+      BlockLimit: '-1'
+    lime_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_concrete_powder
+      BlockLimit: '-1'
+    magenta_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_concrete_powder
+      BlockLimit: '-1'
+    orange_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_concrete_powder
+      BlockLimit: '-1'
+    pink_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_concrete_powder
+      BlockLimit: '-1'
+    purple_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_concrete_powder
+      BlockLimit: '-1'
+    red_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_concrete_powder
+      BlockLimit: '-1'
+    white_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_concrete_powder
+      BlockLimit: '-1'
+    yellow_concrete_powder:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_concrete_powder
+      BlockLimit: '-1'
+    spruce_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_slab
+      BlockLimit: '-1'
+    oak_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_slab
+      BlockLimit: '-1'
+    jungle_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_slab
+      BlockLimit: '-1'
+    birch_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_slab
+      BlockLimit: '-1'
+    dark_oak_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_slab
+      BlockLimit: '-1'
+    acacia_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_slab
+      BlockLimit: '-1'
+    brick_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:brick_slab
+      BlockLimit: '-1'
+    cobblestone_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:cobblestone_slab
+      BlockLimit: '-1'
+    dark_prismarine_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_prismarine_slab
+      BlockLimit: '-1'
+    nether_brick_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:nether_brick_slab
+      BlockLimit: '-1'
+    petrified_oak_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:petrified_oak_slab
+      BlockLimit: '-1'
+    prismarine_brick_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:prismarine_brick_slab
+      BlockLimit: '-1'
+    prismarine_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:prismarine_slab
+      BlockLimit: '-1'
+    purpur_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:purpur_slab
+      BlockLimit: '-1'
+    quartz_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:quartz_slab
+      BlockLimit: '-1'
+    red_sandstone_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_sandstone_slab
+      BlockLimit: '-1'
+    sandstone_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:sandstone_slab
+      BlockLimit: '-1'
+    stone_brick_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:stone_brick_slab
+      BlockLimit: '-1'
+    stone_slab:
+      CollideType: MATERIAL
+      BlockType: minecraft:stone_slab
+      BlockLimit: '-1'
+    acacia_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_stairs
+      BlockLimit: '-1'
+    birch_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_stairs
+      BlockLimit: '-1'
+    dark_oak_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_stairs
+      BlockLimit: '-1'
+    jungle_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_stairs
+      BlockLimit: '-1'
+    oak_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_stairs
+      BlockLimit: '-1'
+    spruce_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_stairs
+      BlockLimit: '-1'
+    cobblestone_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:cobblestone_stairs
+      BlockLimit: '-1'
+    brick_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:brick_stairs
+      BlockLimit: '-1'
+    dark_prismarine_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_prismarine_stairs
+      BlockLimit: '-1'
+    nether_brick_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:nether_brick_stairs
+      BlockLimit: '-1'
+    prismarine_brick_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:prismarine_brick_stairs
+      BlockLimit: '-1'
+    prismarine_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:prismarine_stairs
+      BlockLimit: '-1'
+    purpur_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:purpur_stairs
+      BlockLimit: '-1'
+    quartz_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:quartz_stairs
+      BlockLimit: '-1'
+    red_sandstone_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_sandstone_stairs
+      BlockLimit: '-1'
+    sandstone_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:sandstone_stairs
+      BlockLimit: '-1'
+    stone_brick_stairs:
+      CollideType: MATERIAL
+      BlockType: minecraft:stone_brick_stairs
+      BlockLimit: '-1'
+    potted_acacia_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_acacia_sapling
+      BlockLimit: '-1'
+    potted_birch_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_birch_sapling
+      BlockLimit: '-1'
+    potted_dark_oak_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_dark_oak_sapling
+      BlockLimit: '-1'
+    potted_jungle_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_jungle_sapling
+      BlockLimit: '-1'
+    potted_oak_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_oak_sapling
+      BlockLimit: '-1'
+    potted_spruce_sapling:
+      CollideType: MATERIAL
+      BlockType: minecraft:potted_spruce_sapling
+      BlockLimit: '-1'
+    wall_torch:
+      CollideType: MATERIAL
+      BlockType: minecraft:wall_torch
+      BlockLimit: '-1'
+    redstone_wall_torch:
+      CollideType: MATERIAL
+      BlockType: minecraft:redstone_wall_torch
+      BlockLimit: '-1'
+    black_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_stained_glass
+      BlockLimit: '-1'
+    blue_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_stained_glass
+      BlockLimit: '-1'
+    brown_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_stained_glass
+      BlockLimit: '-1'
+    cyan_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_stained_glass
+      BlockLimit: '-1'
+    gray_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_stained_glass
+      BlockLimit: '-1'
+    green_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_stained_glass
+      BlockLimit: '-1'
+    light_blue_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_stained_glass
+      BlockLimit: '-1'
+    light_gray_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_stained_glass
+      BlockLimit: '-1'
+    lime_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_stained_glass
+      BlockLimit: '-1'
+    magenta_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_stained_glass
+      BlockLimit: '-1'
+    orange_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_stained_glass
+      BlockLimit: '-1'
+    pink_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_stained_glass
+      BlockLimit: '-1'
+    purple_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_stained_glass
+      BlockLimit: '-1'
+    red_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_stained_glass
+      BlockLimit: '-1'
+    white_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_stained_glass
+      BlockLimit: '-1'
+    yellow_stained_glass:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_stained_glass
+      BlockLimit: '-1'
+    black_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_stained_glass_pane
+      BlockLimit: '-1'
+    blue_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_stained_glass_pane
+      BlockLimit: '-1'
+    brown_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_stained_glass_pane
+      BlockLimit: '-1'
+    cyan_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_stained_glass_pane
+      BlockLimit: '-1'
+    gray_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_stained_glass_pane
+      BlockLimit: '-1'
+    green_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_stained_glass_pane
+      BlockLimit: '-1'
+    light_blue_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_blue_stained_glass_pane
+      BlockLimit: '-1'
+    light_gray_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:light_gray_stained_glass_pane
+      BlockLimit: '-1'
+    lime_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_stained_glass_pane
+      BlockLimit: '-1'
+    magenta_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_stained_glass_pane
+      BlockLimit: '-1'
+    orange_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_stained_glass_pane
+      BlockLimit: '-1'
+    pink_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_stained_glass_pane
+      BlockLimit: '-1'
+    purple_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_stained_glass_pane
+      BlockLimit: '-1'
+    red_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_stained_glass_pane
+      BlockLimit: '-1'
+    white_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_stained_glass_pane
+      BlockLimit: '-1'
+    yellow_stained_glass_pane:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_stained_glass_pane
+      BlockLimit: '-1'
+    black_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:black_terracotta
+      BlockLimit: '-1'
+    blue_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:blue_terracotta
+      BlockLimit: '-1'
+    brown_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:brown_terracotta
+      BlockLimit: '-1'
+    cyan_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:cyan_terracotta
+      BlockLimit: '-1'
+    gray_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:gray_terracotta
+      BlockLimit: '-1'
+    green_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:green_terracotta
+      BlockLimit: '-1'
+    lime_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:lime_terracotta
+      BlockLimit: '-1'
+    magenta_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:magenta_terracotta
+      BlockLimit: '-1'
+    orange_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:orange_terracotta
+      BlockLimit: '-1'
+    pink_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:pink_terracotta
+      BlockLimit: '-1'
+    purple_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:purple_terracotta
+      BlockLimit: '-1'
+    red_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:red_terracotta
+      BlockLimit: '-1'
+    white_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:white_terracotta
+      BlockLimit: '-1'
+    yellow_terracotta:
+      CollideType: MATERIAL
+      BlockType: minecraft:yellow_terracotta
+      BlockLimit: '-1'
+    iron_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:iron_trapdoor
+      BlockLimit: '-1'
+    acacia_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:acacia_trapdoor
+      BlockLimit: '-1'
+    oak_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:oak_trapdoor
+      BlockLimit: '-1'
+    birch_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:birch_trapdoor
+      BlockLimit: '-1'
+    dark_oak_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:dark_oak_trapdoor
+      BlockLimit: '-1'
+    jungle_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:jungle_trapdoor
+      BlockLimit: '-1'
+    spruce_trapdoor:
+      CollideType: MATERIAL
+      BlockType: minecraft:spruce_trapdoor
+      BlockLimit: '-1'
+    acacia_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:acacia_sapling
+      BlockLimit: '-1'
+    birch_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:birch_sapling
+      BlockLimit: '-1'
+    dark_oak_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:dark_oak_sapling
+      BlockLimit: '-1'
+    jungle_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:jungle_sapling
+      BlockLimit: '-1'
+    oak_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:oak_sapling
+      BlockLimit: '-1'
+    spruce_sapling:
+      CollideType: IGNORE
+      BlockType: minecraft:spruce_sapling
+      BlockLimit: '-1'
+    dandelion:
+      CollideType: IGNORE
+      BlockType: minecraft:dandelion
+      BlockLimit: '-1'
+    kelp:
+      CollideType: IGNORE
+      BlockType: minecraft:kelp
+      BlockLimit: '-1'
+    repeater:
+      CollideType: MATERIAL
+      BlockType: minecraft:repeater
+      BlockLimit: '-1'
+    comparator:
+      CollideType: MATERIAL
+      BlockType: minecraft:comparator
+      BlockLimit: '-1'
+    coal_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:coal_ore
+      BlockLimit: '-1'
+    brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brick_wall
+      BlockLimit: '-1'
+    basalt:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:basalt
+      BlockLimit: '-1'
+    warped_roots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_roots
+      BlockLimit: '-1'
+    gilded_blackstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:gilded_blackstone
+      BlockLimit: '-1'
+    cut_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cut_sandstone
+      BlockLimit: '-1'
+    horn_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:horn_coral_wall_fan
+      BlockLimit: '-1'
+    warped_fungus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_fungus
+      BlockLimit: '-1'
+    dead_bubble_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_bubble_coral_fan
+      BlockLimit: '-1'
+    warped_fence:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_fence
+      BlockLimit: '-1'
+    dead_tube_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_tube_coral_wall_fan
+      BlockLimit: '-1'
+    stripped_warped_hyphae:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_warped_hyphae
+      BlockLimit: '-1'
+    orange_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:orange_glazed_terracotta
+      BlockLimit: '-1'
+    shroomlight:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:shroomlight
+      BlockLimit: '-1'
+    dragon_egg:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dragon_egg
+      BlockLimit: '-1'
+    polished_blackstone_brick_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_brick_stairs
+      BlockLimit: '-1'
+    potted_lily_of_the_valley:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_lily_of_the_valley
+      BlockLimit: '-1'
+    bubble_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bubble_coral_fan
+      BlockLimit: '-1'
+    purpur_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:purpur_block
+      BlockLimit: '-1'
+    tall_seagrass:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tall_seagrass
+      BlockLimit: '-1'
+    end_stone_brick_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_stone_brick_slab
+      BlockLimit: '-1'
+    sweet_berry_bush:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sweet_berry_bush
+      BlockLimit: '-1'
+    cut_red_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cut_red_sandstone
+      BlockLimit: '-1'
+    creeper_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:creeper_head
+      BlockLimit: '-1'
+    crimson_fence_gate:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_fence_gate
+      BlockLimit: '-1'
+    powered_rail:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:powered_rail
+      BlockLimit: '-1'
+    fletching_table:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fletching_table
+      BlockLimit: '-1'
+    bell:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bell
+      BlockLimit: '-1'
+    packed_ice:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:packed_ice
+      BlockLimit: '-1'
+    fern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fern
+      BlockLimit: '-1'
+    shulker_box:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:shulker_box
+      BlockLimit: '-1'
+    dead_tube_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_tube_coral_block
+      BlockLimit: '-1'
+    dead_horn_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_horn_coral
+      BlockLimit: '-1'
+    twisting_vines_plant:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:twisting_vines_plant
+      BlockLimit: '-1'
+    bamboo_sapling:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bamboo_sapling
+      BlockLimit: '-1'
+    skeleton_skull:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:skeleton_skull
+      BlockLimit: '-1'
+    horn_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:horn_coral
+      BlockLimit: '-1'
+    warped_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_slab
+      BlockLimit: '-1'
+    granite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:granite_stairs
+      BlockLimit: '-1'
+    polished_blackstone_brick_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_brick_slab
+      BlockLimit: '-1'
+    obsidian:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:obsidian
+      BlockLimit: '-1'
+    grass_path:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:grass_path
+      BlockLimit: '-1'
+    gravel:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:gravel
+      BlockLimit: '-1'
+    wither_skeleton_skull:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:wither_skeleton_skull
+      BlockLimit: '-1'
+    soul_sand:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_sand
+      BlockLimit: '-1'
+    polished_blackstone_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_brick_wall
+      BlockLimit: '-1'
+    crimson_roots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_roots
+      BlockLimit: '-1'
+    chiseled_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_stone_bricks
+      BlockLimit: '-1'
+    snow_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:snow_block
+      BlockLimit: '-1'
+    warped_hyphae:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_hyphae
+      BlockLimit: '-1'
+    dead_brain_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_brain_coral_fan
+      BlockLimit: '-1'
+    respawn_anchor:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:respawn_anchor
+      BlockLimit: '-1'
+    bubble_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bubble_coral_wall_fan
+      BlockLimit: '-1'
+    lodestone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lodestone
+      BlockLimit: '-1'
+    twisting_vines:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:twisting_vines
+      BlockLimit: '-1'
+    potatoes:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potatoes
+      BlockLimit: '-1'
+    dead_horn_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_horn_coral_wall_fan
+      BlockLimit: '-1'
+    orange_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:orange_tulip
+      BlockLimit: '-1'
+    ice:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:ice
+      BlockLimit: '-1'
+    fire_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fire_coral_fan
+      BlockLimit: '-1'
+    mossy_stone_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_stone_brick_wall
+      BlockLimit: '-1'
+    crying_obsidian:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crying_obsidian
+      BlockLimit: '-1'
+    warped_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_stairs
+      BlockLimit: '-1'
+    red_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_glazed_terracotta
+      BlockLimit: '-1'
+    mycelium:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mycelium
+      BlockLimit: '-1'
+    light_blue_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:light_blue_glazed_terracotta
+      BlockLimit: '-1'
+    infested_cracked_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_cracked_stone_bricks
+      BlockLimit: '-1'
+    lava:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lava
+      BlockLimit: '-1'
+    black_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:black_glazed_terracotta
+      BlockLimit: '-1'
+    bamboo:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bamboo
+      BlockLimit: '-1'
+    cut_red_sandstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cut_red_sandstone_slab
+      BlockLimit: '-1'
+    acacia_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:acacia_wood
+      BlockLimit: '-1'
+    brain_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brain_coral_block
+      BlockLimit: '-1'
+    redstone_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:redstone_ore
+      BlockLimit: '-1'
+    potted_allium:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_allium
+      BlockLimit: '-1'
+    lectern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lectern
+      BlockLimit: '-1'
+    cracked_polished_blackstone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cracked_polished_blackstone_bricks
+      BlockLimit: '-1'
+    polished_andesite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_andesite_slab
+      BlockLimit: '-1'
+    dead_bush:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_bush
+      BlockLimit: '-1'
+    chiseled_red_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_red_sandstone
+      BlockLimit: '-1'
+    potted_wither_rose:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_wither_rose
+      BlockLimit: '-1'
+    cobblestone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cobblestone_wall
+      BlockLimit: '-1'
+    azure_bluet:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:azure_bluet
+      BlockLimit: '-1'
+    warped_trapdoor:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_trapdoor
+      BlockLimit: '-1'
+    potted_dead_bush:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_dead_bush
+      BlockLimit: '-1'
+    crimson_fence:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_fence
+      BlockLimit: '-1'
+    seagrass:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:seagrass
+      BlockLimit: '-1'
+    cut_sandstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cut_sandstone_slab
+      BlockLimit: '-1'
+    red_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_tulip
+      BlockLimit: '-1'
+    polished_blackstone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_bricks
+      BlockLimit: '-1'
+    crimson_hyphae:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_hyphae
+      BlockLimit: '-1'
+    cracked_nether_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cracked_nether_bricks
+      BlockLimit: '-1'
+    potted_fern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_fern
+      BlockLimit: '-1'
+    potted_bamboo:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_bamboo
+      BlockLimit: '-1'
+    nether_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_bricks
+      BlockLimit: '-1'
+    dried_kelp_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dried_kelp_block
+      BlockLimit: '-1'
+    glowstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:glowstone
+      BlockLimit: '-1'
+    brown_mushroom:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brown_mushroom
+      BlockLimit: '-1'
+    red_nether_brick_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_nether_brick_slab
+      BlockLimit: '-1'
+    polished_granite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_granite
+      BlockLimit: '-1'
+    iron_bars:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:iron_bars
+      BlockLimit: '-1'
+    chorus_flower:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chorus_flower
+      BlockLimit: '-1'
+    dark_prismarine:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dark_prismarine
+      BlockLimit: '-1'
+    bubble_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bubble_coral
+      BlockLimit: '-1'
+    infested_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_stone_bricks
+      BlockLimit: '-1'
+    coal_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:coal_block
+      BlockLimit: '-1'
+    red_sand:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_sand
+      BlockLimit: '-1'
+    stripped_dark_oak_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_dark_oak_wood
+      BlockLimit: '-1'
+    red_mushroom_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_mushroom_block
+      BlockLimit: '-1'
+    wither_rose:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:wither_rose
+      BlockLimit: '-1'
+    lily_pad:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lily_pad
+      BlockLimit: '-1'
+    detector_rail:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:detector_rail
+      BlockLimit: '-1'
+    blackstone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blackstone_wall
+      BlockLimit: '-1'
+    iron_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:iron_ore
+      BlockLimit: '-1'
+    melon:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:melon
+      BlockLimit: '-1'
+    sandstone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sandstone_wall
+      BlockLimit: '-1'
+    structure_void:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:structure_void
+      BlockLimit: '-1'
+    lapis_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lapis_ore
+      BlockLimit: '-1'
+    beetroots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:beetroots
+      BlockLimit: '-1'
+    horn_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:horn_coral_fan
+      BlockLimit: '-1'
+    gold_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:gold_ore
+      BlockLimit: '-1'
+    chiseled_polished_blackstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_polished_blackstone
+      BlockLimit: '-1'
+    brown_mushroom_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brown_mushroom_block
+      BlockLimit: '-1'
+    dead_fire_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_fire_coral_fan
+      BlockLimit: '-1'
+    dead_bubble_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_bubble_coral_block
+      BlockLimit: '-1'
+    cartography_table:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cartography_table
+      BlockLimit: '-1'
+    target:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:target
+      BlockLimit: '-1'
+    warped_wart_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_wart_block
+      BlockLimit: '-1'
+    peony:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:peony
+      BlockLimit: '-1'
+    netherite_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:netherite_block
+      BlockLimit: '-1'
+    dead_bubble_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_bubble_coral
+      BlockLimit: '-1'
+    nether_sprouts:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_sprouts
+      BlockLimit: '-1'
+    smithing_table:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smithing_table
+      BlockLimit: '-1'
+    smooth_sandstone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_sandstone_stairs
+      BlockLimit: '-1'
+    tube_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tube_coral_fan
+      BlockLimit: '-1'
+    tripwire_hook:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tripwire_hook
+      BlockLimit: '-1'
+    poppy:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:poppy
+      BlockLimit: '-1'
+    potted_dandelion:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_dandelion
+      BlockLimit: '-1'
+    smooth_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_sandstone
+      BlockLimit: '-1'
+    dark_oak_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dark_oak_leaves
+      BlockLimit: '-1'
+    dead_fire_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_fire_coral_block
+      BlockLimit: '-1'
+    blast_furnace:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blast_furnace
+      BlockLimit: '-1'
+    jungle_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:jungle_wood
+      BlockLimit: '-1'
+    brewing_stand:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brewing_stand
+      BlockLimit: '-1'
+    potted_red_mushroom:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_red_mushroom
+      BlockLimit: '-1'
+    campfire:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:campfire
+      BlockLimit: '-1'
+    dead_horn_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_horn_coral_block
+      BlockLimit: '-1'
+    nether_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_brick_wall
+      BlockLimit: '-1'
+    brown_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brown_glazed_terracotta
+      BlockLimit: '-1'
+    blackstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blackstone_slab
+      BlockLimit: '-1'
+    warped_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_stem
+      BlockLimit: '-1'
+    mossy_cobblestone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_cobblestone_wall
+      BlockLimit: '-1'
+    zombie_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:zombie_head
+      BlockLimit: '-1'
+    cake:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cake
+      BlockLimit: '-1'
+    horn_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:horn_coral_block
+      BlockLimit: '-1'
+    creeper_wall_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:creeper_wall_head
+      BlockLimit: '-1'
+    mossy_stone_brick_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_stone_brick_slab
+      BlockLimit: '-1'
+    magma_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:magma_block
+      BlockLimit: '-1'
+    brain_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brain_coral_wall_fan
+      BlockLimit: '-1'
+    white_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:white_tulip
+      BlockLimit: '-1'
+    spawner:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:spawner
+      BlockLimit: '-1'
+    end_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_stone_bricks
+      BlockLimit: '-1'
+    podzol:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:podzol
+      BlockLimit: '-1'
+    diorite_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:diorite_wall
+      BlockLimit: '-1'
+    granite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:granite_slab
+      BlockLimit: '-1'
+    soul_soil:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_soil
+      BlockLimit: '-1'
+    dead_bubble_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_bubble_coral_wall_fan
+      BlockLimit: '-1'
+    rose_bush:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:rose_bush
+      BlockLimit: '-1'
+    stripped_spruce_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_spruce_wood
+      BlockLimit: '-1'
+    pink_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:pink_glazed_terracotta
+      BlockLimit: '-1'
+    honey_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:honey_block
+      BlockLimit: '-1'
+    sand:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sand
+      BlockLimit: '-1'
+    potted_cornflower:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_cornflower
+      BlockLimit: '-1'
+    oxeye_daisy:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:oxeye_daisy
+      BlockLimit: '-1'
+    bedrock:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bedrock
+      BlockLimit: '-1'
+    allium:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:allium
+      BlockLimit: '-1'
+    stone_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stone_brick_wall
+      BlockLimit: '-1'
+    cyan_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cyan_glazed_terracotta
+      BlockLimit: '-1'
+    crimson_door:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_door
+      BlockLimit: '-1'
+    diorite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:diorite_stairs
+      BlockLimit: '-1'
+    potted_blue_orchid:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_blue_orchid
+      BlockLimit: '-1'
+    barrier:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:barrier
+      BlockLimit: '-1'
+    activator_rail:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:activator_rail
+      BlockLimit: '-1'
+    dirt:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dirt
+      BlockLimit: '-1'
+    loom:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:loom
+      BlockLimit: '-1'
+    farmland:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:farmland
+      BlockLimit: '-1'
+    birch_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:birch_leaves
+      BlockLimit: '-1'
+    oak_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:oak_leaves
+      BlockLimit: '-1'
+    quartz_pillar:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:quartz_pillar
+      BlockLimit: '-1'
+    nether_portal:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_portal
+      BlockLimit: '-1'
+    potted_azure_bluet:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_azure_bluet
+      BlockLimit: '-1'
+    smooth_red_sandstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_red_sandstone_slab
+      BlockLimit: '-1'
+    piston:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:piston
+      BlockLimit: '-1'
+    polished_diorite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_diorite
+      BlockLimit: '-1'
+    crimson_button:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_button
+      BlockLimit: '-1'
+    polished_granite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_granite_slab
+      BlockLimit: '-1'
+    crimson_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_stairs
+      BlockLimit: '-1'
+    smooth_red_sandstone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_red_sandstone_stairs
+      BlockLimit: '-1'
+    potted_red_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_red_tulip
+      BlockLimit: '-1'
+    chiseled_quartz_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_quartz_block
+      BlockLimit: '-1'
+    wheat:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:wheat
+      BlockLimit: '-1'
+    gray_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:gray_glazed_terracotta
+      BlockLimit: '-1'
+    redstone_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:redstone_block
+      BlockLimit: '-1'
+    brain_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brain_coral_fan
+      BlockLimit: '-1'
+    spruce_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:spruce_leaves
+      BlockLimit: '-1'
+    stripped_jungle_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_jungle_wood
+      BlockLimit: '-1'
+    infested_mossy_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_mossy_stone_bricks
+      BlockLimit: '-1'
+    end_stone_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_stone_brick_wall
+      BlockLimit: '-1'
+    dead_fire_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_fire_coral
+      BlockLimit: '-1'
+    end_portal:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_portal
+      BlockLimit: '-1'
+    repeating_command_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:repeating_command_block
+      BlockLimit: '-1'
+    green_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:green_glazed_terracotta
+      BlockLimit: '-1'
+    light_gray_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:light_gray_glazed_terracotta
+      BlockLimit: '-1'
+    stone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stone_stairs
+      BlockLimit: '-1'
+    soul_fire:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_fire
+      BlockLimit: '-1'
+    blue_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blue_glazed_terracotta
+      BlockLimit: '-1'
+    cornflower:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cornflower
+      BlockLimit: '-1'
+    warped_fence_gate:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_fence_gate
+      BlockLimit: '-1'
+    potted_pink_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_pink_tulip
+      BlockLimit: '-1'
+    mossy_cobblestone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_cobblestone_slab
+      BlockLimit: '-1'
+    potted_orange_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_orange_tulip
+      BlockLimit: '-1'
+    weeping_vines_plant:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:weeping_vines_plant
+      BlockLimit: '-1'
+    carved_pumpkin:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:carved_pumpkin
+      BlockLimit: '-1'
+    acacia_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:acacia_leaves
+      BlockLimit: '-1'
+    end_stone_brick_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_stone_brick_stairs
+      BlockLimit: '-1'
+    potted_brown_mushroom:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_brown_mushroom
+      BlockLimit: '-1'
+    stripped_acacia_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_acacia_wood
+      BlockLimit: '-1'
+    infested_stone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_stone
+      BlockLimit: '-1'
+    player_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:player_head
+      BlockLimit: '-1'
+    wet_sponge:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:wet_sponge
+      BlockLimit: '-1'
+    jack_o_lantern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:jack_o_lantern
+      BlockLimit: '-1'
+    lime_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lime_glazed_terracotta
+      BlockLimit: '-1'
+    warped_door:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_door
+      BlockLimit: '-1'
+    potted_crimson_fungus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_crimson_fungus
+      BlockLimit: '-1'
+    composter:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:composter
+      BlockLimit: '-1'
+    grindstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:grindstone
+      BlockLimit: '-1'
+    light_gray_shulker_box:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:light_gray_shulker_box
+      BlockLimit: '-1'
+    emerald_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:emerald_ore
+      BlockLimit: '-1'
+    lily_of_the_valley:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lily_of_the_valley
+      BlockLimit: '-1'
+    potted_cactus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_cactus
+      BlockLimit: '-1'
+    large_fern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:large_fern
+      BlockLimit: '-1'
+    infested_chiseled_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_chiseled_stone_bricks
+      BlockLimit: '-1'
+    mushroom_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mushroom_stem
+      BlockLimit: '-1'
+    potted_oxeye_daisy:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_oxeye_daisy
+      BlockLimit: '-1'
+    dragon_wall_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dragon_wall_head
+      BlockLimit: '-1'
+    blackstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blackstone
+      BlockLimit: '-1'
+    carrots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:carrots
+      BlockLimit: '-1'
+    fire_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fire_coral_wall_fan
+      BlockLimit: '-1'
+    air:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:air
+      BlockLimit: '-1'
+    light_gray_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:light_gray_terracotta
+      BlockLimit: '-1'
+    potted_warped_fungus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_warped_fungus
+      BlockLimit: '-1'
+    soul_campfire:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_campfire
+      BlockLimit: '-1'
+    quartz_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:quartz_bricks
+      BlockLimit: '-1'
+    crimson_planks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_planks
+      BlockLimit: '-1'
+    conduit:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:conduit
+      BlockLimit: '-1'
+    warped_nylium:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_nylium
+      BlockLimit: '-1'
+    potted_crimson_roots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_crimson_roots
+      BlockLimit: '-1'
+    cobweb:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cobweb
+      BlockLimit: '-1'
+    pumpkin_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:pumpkin_stem
+      BlockLimit: '-1'
+    wither_skeleton_wall_skull:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:wither_skeleton_wall_skull
+      BlockLimit: '-1'
+    fire_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fire_coral
+      BlockLimit: '-1'
+    dead_brain_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_brain_coral
+      BlockLimit: '-1'
+    red_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_sandstone
+      BlockLimit: '-1'
+    melon_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:melon_stem
+      BlockLimit: '-1'
+    clay:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:clay
+      BlockLimit: '-1'
+    polished_basalt:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_basalt
+      BlockLimit: '-1'
+    red_sandstone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_sandstone_wall
+      BlockLimit: '-1'
+    end_stone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_stone
+      BlockLimit: '-1'
+    stone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stone
+      BlockLimit: '-1'
+    attached_pumpkin_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:attached_pumpkin_stem
+      BlockLimit: '-1'
+    stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stone_bricks
+      BlockLimit: '-1'
+    diorite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:diorite
+      BlockLimit: '-1'
+    cobblestone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cobblestone
+      BlockLimit: '-1'
+    pumpkin:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:pumpkin
+      BlockLimit: '-1'
+    bee_nest:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bee_nest
+      BlockLimit: '-1'
+    sugar_cane:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sugar_cane
+      BlockLimit: '-1'
+    andesite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:andesite
+      BlockLimit: '-1'
+    andesite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:andesite_stairs
+      BlockLimit: '-1'
+    end_portal_frame:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_portal_frame
+      BlockLimit: '-1'
+    fire_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:fire_coral_block
+      BlockLimit: '-1'
+    red_mushroom:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_mushroom
+      BlockLimit: '-1'
+    bone_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bone_block
+      BlockLimit: '-1'
+    jungle_leaves:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:jungle_leaves
+      BlockLimit: '-1'
+    mossy_cobblestone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_cobblestone
+      BlockLimit: '-1'
+    andesite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:andesite_slab
+      BlockLimit: '-1'
+    player_wall_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:player_wall_head
+      BlockLimit: '-1'
+    blue_orchid:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blue_orchid
+      BlockLimit: '-1'
+    rail:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:rail
+      BlockLimit: '-1'
+    stripped_warped_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_warped_stem
+      BlockLimit: '-1'
+    smooth_quartz:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_quartz
+      BlockLimit: '-1'
+    tube_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tube_coral_block
+      BlockLimit: '-1'
+    tube_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tube_coral_wall_fan
+      BlockLimit: '-1'
+    polished_granite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_granite_stairs
+      BlockLimit: '-1'
+    warped_button:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_button
+      BlockLimit: '-1'
+    scaffolding:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:scaffolding
+      BlockLimit: '-1'
+    nether_wart_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_wart_block
+      BlockLimit: '-1'
+    nether_wart:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_wart
+      BlockLimit: '-1'
+    andesite_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:andesite_wall
+      BlockLimit: '-1'
+    soul_wall_torch:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_wall_torch
+      BlockLimit: '-1'
+    terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:terracotta
+      BlockLimit: '-1'
+    oak_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:oak_wood
+      BlockLimit: '-1'
+    smoker:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smoker
+      BlockLimit: '-1'
+    crimson_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_stem
+      BlockLimit: '-1'
+    bubble_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bubble_coral_block
+      BlockLimit: '-1'
+    vine:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:vine
+      BlockLimit: '-1'
+    granite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:granite
+      BlockLimit: '-1'
+    dragon_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dragon_head
+      BlockLimit: '-1'
+    flower_pot:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:flower_pot
+      BlockLimit: '-1'
+    polished_blackstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_slab
+      BlockLimit: '-1'
+    purple_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:purple_glazed_terracotta
+      BlockLimit: '-1'
+    quartz_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:quartz_block
+      BlockLimit: '-1'
+    red_nether_brick_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_nether_brick_stairs
+      BlockLimit: '-1'
+    purpur_pillar:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:purpur_pillar
+      BlockLimit: '-1'
+    cactus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cactus
+      BlockLimit: '-1'
+    crimson_trapdoor:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_trapdoor
+      BlockLimit: '-1'
+    weeping_vines:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:weeping_vines
+      BlockLimit: '-1'
+    chain_command_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chain_command_block
+      BlockLimit: '-1'
+    chiseled_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_sandstone
+      BlockLimit: '-1'
+    prismarine_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:prismarine_bricks
+      BlockLimit: '-1'
+    polished_diorite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_diorite_slab
+      BlockLimit: '-1'
+    honeycomb_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:honeycomb_block
+      BlockLimit: '-1'
+    granite_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:granite_wall
+      BlockLimit: '-1'
+    void_air:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:void_air
+      BlockLimit: '-1'
+    crimson_nylium:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_nylium
+      BlockLimit: '-1'
+    dead_brain_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_brain_coral_wall_fan
+      BlockLimit: '-1'
+    diamond_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:diamond_ore
+      BlockLimit: '-1'
+    prismarine:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:prismarine
+      BlockLimit: '-1'
+    beehive:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:beehive
+      BlockLimit: '-1'
+    crimson_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_slab
+      BlockLimit: '-1'
+    stonecutter:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stonecutter
+      BlockLimit: '-1'
+    cracked_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cracked_stone_bricks
+      BlockLimit: '-1'
+    diorite_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:diorite_slab
+      BlockLimit: '-1'
+    skeleton_wall_skull:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:skeleton_wall_skull
+      BlockLimit: '-1'
+    smooth_quartz_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_quartz_slab
+      BlockLimit: '-1'
+    smooth_stone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_stone
+      BlockLimit: '-1'
+    warped_planks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:warped_planks
+      BlockLimit: '-1'
+    lilac:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lilac
+      BlockLimit: '-1'
+    crimson_fungus:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:crimson_fungus
+      BlockLimit: '-1'
+    frosted_ice:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:frosted_ice
+      BlockLimit: '-1'
+    yellow_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:yellow_glazed_terracotta
+      BlockLimit: '-1'
+    grass:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:grass
+      BlockLimit: '-1'
+    dead_horn_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_horn_coral_fan
+      BlockLimit: '-1'
+    ancient_debris:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:ancient_debris
+      BlockLimit: '-1'
+    stripped_crimson_hyphae:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_crimson_hyphae
+      BlockLimit: '-1'
+    sunflower:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sunflower
+      BlockLimit: '-1'
+    sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sandstone
+      BlockLimit: '-1'
+    potted_poppy:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_poppy
+      BlockLimit: '-1'
+    cocoa:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:cocoa
+      BlockLimit: '-1'
+    sponge:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sponge
+      BlockLimit: '-1'
+    chiseled_nether_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chiseled_nether_bricks
+      BlockLimit: '-1'
+    smooth_quartz_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_quartz_stairs
+      BlockLimit: '-1'
+    dead_brain_coral_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_brain_coral_block
+      BlockLimit: '-1'
+    birch_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:birch_wood
+      BlockLimit: '-1'
+    blue_ice:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blue_ice
+      BlockLimit: '-1'
+    tube_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:tube_coral
+      BlockLimit: '-1'
+    mossy_cobblestone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_cobblestone_stairs
+      BlockLimit: '-1'
+    end_rod:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_rod
+      BlockLimit: '-1'
+    smooth_red_sandstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_red_sandstone
+      BlockLimit: '-1'
+    white_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:white_glazed_terracotta
+      BlockLimit: '-1'
+    mossy_stone_brick_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_stone_brick_stairs
+      BlockLimit: '-1'
+    attached_melon_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:attached_melon_stem
+      BlockLimit: '-1'
+    smooth_sandstone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_sandstone_slab
+      BlockLimit: '-1'
+    dead_tube_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_tube_coral
+      BlockLimit: '-1'
+    prismarine_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:prismarine_wall
+      BlockLimit: '-1'
+    chorus_plant:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chorus_plant
+      BlockLimit: '-1'
+    magenta_glazed_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:magenta_glazed_terracotta
+      BlockLimit: '-1'
+    polished_blackstone_button:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_button
+      BlockLimit: '-1'
+    blackstone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:blackstone_stairs
+      BlockLimit: '-1'
+    kelp_plant:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:kelp_plant
+      BlockLimit: '-1'
+    polished_blackstone_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_wall
+      BlockLimit: '-1'
+    water:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:water
+      BlockLimit: '-1'
+    zombie_wall_head:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:zombie_wall_head
+      BlockLimit: '-1'
+    dead_tube_coral_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_tube_coral_fan
+      BlockLimit: '-1'
+    sea_pickle:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sea_pickle
+      BlockLimit: '-1'
+    turtle_egg:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:turtle_egg
+      BlockLimit: '-1'
+    nether_gold_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_gold_ore
+      BlockLimit: '-1'
+    smooth_stone_slab:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:smooth_stone_slab
+      BlockLimit: '-1'
+    light_blue_terracotta:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:light_blue_terracotta
+      BlockLimit: '-1'
+    infested_cobblestone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:infested_cobblestone
+      BlockLimit: '-1'
+    red_nether_brick_wall:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_nether_brick_wall
+      BlockLimit: '-1'
+    chain:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:chain
+      BlockLimit: '-1'
+    polished_andesite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_andesite_stairs
+      BlockLimit: '-1'
+    red_nether_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:red_nether_bricks
+      BlockLimit: '-1'
+    sea_lantern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:sea_lantern
+      BlockLimit: '-1'
+    soul_lantern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:soul_lantern
+      BlockLimit: '-1'
+    nether_quartz_ore:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:nether_quartz_ore
+      BlockLimit: '-1'
+    polished_blackstone:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone
+      BlockLimit: '-1'
+    barrel:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:barrel
+      BlockLimit: '-1'
+    bubble_column:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:bubble_column
+      BlockLimit: '-1'
+    snow:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:snow
+      BlockLimit: '-1'
+    brain_coral:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:brain_coral
+      BlockLimit: '-1'
+    structure_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:structure_block
+      BlockLimit: '-1'
+    polished_blackstone_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_blackstone_stairs
+      BlockLimit: '-1'
+    stripped_crimson_stem:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_crimson_stem
+      BlockLimit: '-1'
+    polished_diorite_stairs:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_diorite_stairs
+      BlockLimit: '-1'
+    polished_andesite:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:polished_andesite
+      BlockLimit: '-1'
+    potted_warped_roots:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_warped_roots
+      BlockLimit: '-1'
+    pink_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:pink_tulip
+      BlockLimit: '-1'
+    spruce_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:spruce_wood
+      BlockLimit: '-1'
+    command_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:command_block
+      BlockLimit: '-1'
+    stripped_birch_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_birch_wood
+      BlockLimit: '-1'
+    mossy_stone_bricks:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:mossy_stone_bricks
+      BlockLimit: '-1'
+    jigsaw:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:jigsaw
+      BlockLimit: '-1'
+    dead_fire_coral_wall_fan:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dead_fire_coral_wall_fan
+      BlockLimit: '-1'
+    stripped_oak_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:stripped_oak_wood
+      BlockLimit: '-1'
+    end_gateway:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:end_gateway
+      BlockLimit: '-1'
+    potted_white_tulip:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:potted_white_tulip
+      BlockLimit: '-1'
+    lantern:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:lantern
+      BlockLimit: '-1'
+    slime_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:slime_block
+      BlockLimit: '-1'
+    grass_block:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:grass_block
+      BlockLimit: '-1'
+    coarse_dirt:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:coarse_dirt
+      BlockLimit: '-1'
+    dark_oak_wood:
+      CollideType: DETECT_COLLIDE
+      BlockType: minecraft:dark_oak_wood
+      BlockLimit: '-1'
