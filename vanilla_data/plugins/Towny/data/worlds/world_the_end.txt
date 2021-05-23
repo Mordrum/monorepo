@@ -15,11 +15,11 @@ disableplayertrample=true
 disablecreaturetrample=true
 
 # Unclaimed Zone settings.
-unclaimedZoneBuild=false
-unclaimedZoneDestroy=false
-unclaimedZoneSwitch=false
-unclaimedZoneItemUse=false
-unclaimedZoneName=Wilderness
+unclaimedZoneBuild=true
+unclaimedZoneDestroy=true
+unclaimedZoneSwitch=true
+unclaimedZoneItemUse=true
+unclaimedZoneName=???
 
 # The following are blocks that will bypass the above build, destroy, switch and itemuse settings.
 unclaimedZoneIgnoreIds=SAPLING,GOLD_ORE,IRON_ORE,COAL_ORE,LOG,LEAVES,LAPIS_ORE,LONG_GRASS,YELLOW_FLOWER,RED_ROSE,BROWN_MUSHROOM,RED_MUSHROOM,TORCH,DIAMOND_ORE,LADDER,RAILS,REDSTONE_ORE,GLOWING_REDSTONE_ORE,CACTUS,CLAY,SUGAR_CANE_BLOCK,PUMPKIN,GLOWSTONE,LOG_2,VINE,NETHER_WARTS,COCOA

@@ -15,11 +15,11 @@ disableplayertrample=true
 disablecreaturetrample=true
 
 # Unclaimed Zone settings.
-unclaimedZoneBuild=false
-unclaimedZoneDestroy=false
-unclaimedZoneSwitch=false
-unclaimedZoneItemUse=false
-unclaimedZoneName=Wilderness
+unclaimedZoneBuild=true
+unclaimedZoneDestroy=true
+unclaimedZoneSwitch=true
+unclaimedZoneItemUse=true
+unclaimedZoneName=The Untamed Wilds
 
 # The following are blocks that will bypass the above build, destroy, switch and itemuse settings.
 unclaimedZoneIgnoreIds=SAPLING,GOLD_ORE,IRON_ORE,COAL_ORE,LOG,LEAVES,LAPIS_ORE,LONG_GRASS,YELLOW_FLOWER,RED_ROSE,BROWN_MUSHROOM,RED_MUSHROOM,TORCH,DIAMOND_ORE,LADDER,RAILS,REDSTONE_ORE,GLOWING_REDSTONE_ORE,CACTUS,CLAY,SUGAR_CANE_BLOCK,PUMPKIN,GLOWSTONE,LOG_2,VINE,NETHER_WARTS,COCOA
@@ -44,7 +44,7 @@ usingPlotManagementWildRegen=true
 # The list of entities whose explosions would be reverted.
 PlotManagementWildRegenEntities=creeper,endercrystal,enderdragon,fireball,smallfireball,largefireball,tntprimed,explosiveminecart,wither,witherskull
 # If enabled any damage caused by block explosions will repair itself.
-usingPlotManagementWildRegenBlocks=true
+usingPlotManagementWildRegenBlocks=false
 # The list of entities whose explosions would be reverted.
 PlotManagementWildRegenBlocks=WHITE_BED,ORANGE_BED,MAGENTA_BED,LIGHT_BLUE_BED,YELLOW_BED,LIME_BED,PINK_BED,GRAY_BED,LIGHT_GRAY_BED,CYAN_BED,PURPLE_BED,BLUE_BED,BROWN_BED,GREEN_BED,RED_BED,BLACK_BED
 # The delay after which the explosion reverts will begin.
