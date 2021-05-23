@@ -1,0 +1,89 @@
+
+#       _.-^^---....,,-._      
+#   _--                  '-_  
+#  <                        >)
+#  |        KA BOOM!        | 
+#   \._                   _./ 
+#      ```--. . , ; .--'''    
+#            | |   |          
+#         .-=||  | |=-.       
+#         `-=#$%&%$#=-'       
+#            | ;  :|          
+#  ______.,-#%&$@%#&#~,.______
+#              By             
+#           TauCubed          
+
+silk touch blocks: false
+# Should explosions silk-touch blocks?
+#   The tool being mimicked is a Diamond Pickaxe.
+# Note: This overrides handling of all blocks except tnt by the game. 
+#   While this shouldn't conflict with other plugins; it may if they do not handle explosion events properly.
+
+# to disable physics you need to add "EVERYTHING" to "disabled falling blocks"
+physics:
+  
+  # By how much should we multiply the velocity
+  velocity multiplier: 2.0
+  
+  # Raytracing is used to help plot a more "fun" trajectory for the falling blocks.
+  # How many times should the ray bounce off non-passable blocks (casting a new ray in that direction)
+  # If no attempts are made explosions will just push blocks away from the blast (usually down)
+  max ray attempts: 5
+  
+  # How far should each ray travel?
+  max ray distance: 10
+  
+  # How many ticks should we wait before resending block updates
+  # (This is for fixing a client side ghost block issue.)
+  # The higher this value the more memory will be consumed & the less cinematic it may appear.
+  # Default is 5.
+  ticks before update: 2
+  
+  # Should falling blocks "squish" entities they fall on?
+  # This behaves the same as anvil damage.
+  falling blocks hurt entities: true
+  
+  # Should falling blocks play their blocks break animation if they fail to land?
+  play falling break animation: true
+  
+  # Any blocks in this list will be broken rather then flung
+  # Note: All tile-entities are already excluded as well as TNT
+  # Setting a value of "EVERYTHING" will include all known materials.
+  disabled falling blocks:
+    # some multiblocks get messy
+    - MOVING_PISTON
+    - PISTON_HEAD
+    - PISTON
+    - STICKY_PISTON
+    - ACACIA_DOOR
+    - BIRCH_DOOR
+    - CRIMSON_DOOR
+    - DARK_OAK_DOOR
+    - IRON_DOOR
+    - JUNGLE_DOOR
+    - OAK_DOOR
+    - SPRUCE_DOOR
+    - WARPED_DOOR
+
+  # Any blocks in this list will not be placed if they land. 
+  #  instead dropping their loot table's items on impact (unless disabled)
+  # Setting a value of "EVERYTHING" will include all known materials.
+  disabled falling blocks placement:
+    - NETHER_PORTAL # you probably don't want this
+    - FIRE # can place in odd ways that look strange.
+    
+  # Falling blocks in this list will never drop items.
+  # Setting a value of "EVERYTHING" will include all known materials.
+  disabled falling block drops:
+    - NETHER_PORTAL # just in case.
+    - FIRE # just in case.
+
+# Hooks are for integration with some supported plugins 
+hooks:
+  # CoreProtect block logging hooks
+  # Note: You must enable the CoreProtect API in it's config for this to work!
+  CoreProtect hook: false
+
+# no touchy
+config version: 3
+# no touchy
