@@ -24,10 +24,10 @@ BotToken: "MzE4MDk0MjY0OTA1MjM2NDgz.WSnGXg.ur897he1t3Nqq8NmF4-ESh8FVm8"
 # for /discord broadcast: broadcasts (unless specified in the command)
 #
 # The first part of channel pairs is not the Discord channel name!
-Channels: {"global": "317852766527553536"}
+Channels: {"global": "846129158567886898"}
 
 # Console channel numerical ID (NOT NAME), leave blank to disable the console channel all together
-DiscordConsoleChannelId: ""
+DiscordConsoleChannelId: "846129333797126144"
 
 # Invitation link shown to players when using /discord and on the message shown to unlinked players when linking is enforced
 DiscordInviteLink: "discord.gg/QJNjUtWJka"
