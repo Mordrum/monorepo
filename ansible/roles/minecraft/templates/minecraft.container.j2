@@ -1,0 +1,28 @@
+[Unit]
+Description=Minecraft container
+After=local-fs.target network.target
+
+[Container]
+Image=registry.docker.com/itzg/minecraft-server:latest
+
+Environment=EULA=true
+Environment=ONLINE_MODE=true
+Environment=TYPE=PURPUR
+Environment=USE_AIKAR_FLAGS=true
+Environment=USE_LARGE_PAGES=true
+Environment=MAX_BUILD_HEIGHT=256
+Environment=VIEW_DISTANCE=15
+Environment=LEVEL_TYPE=LARGEBIOMES
+Environment=VERSION=1.19.2
+Environment=MAX_MEMORY=8G
+Environment=MAX_PLAYERS=50
+PublishPort=25565
+PublishPort=25575
+VolatileTmp=true
+
+Network=minecraft.network
+Volume=minecraft.volume:/data
+
+[Install]
+# Start by default on boot
+WantedBy=multi-user.target default.target

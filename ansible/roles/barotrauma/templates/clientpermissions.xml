@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ClientPermissions>
+    <Client
+            name="Savary"
+            steamid="76561198033891001"
+            preset="Admin" />
+</ClientPermissions>
