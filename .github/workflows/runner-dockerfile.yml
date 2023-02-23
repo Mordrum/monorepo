@@ -58,7 +58,7 @@ jobs:
           context: .
           platforms: linux/amd64,linux/arm64
           push: ${{ github.event_name != 'pull_request' }}
-          file: Dockerfile
+          file: .github/workflows/Dockerfile
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           # WARN: gha is experimental https://docs.docker.com/build/ci/github-actions/examples/#github-cache
