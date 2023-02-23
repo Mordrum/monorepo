@@ -1,9 +1,0 @@
-Speed:
-  Max: 20
-  Altitude: 5
-Block:
-  Fuel:
-    Consumption: 1
-    Slot: Bottom
-    Types:
-    - minecraft:coal_block

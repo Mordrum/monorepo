@@ -1,8 +1,0 @@
-Error:
-  TooManyOfBlocks: Too many of %Block Name% Found
-  NoSpeedSet: No Speed Set
-  FailedToFindLicenceSign: Failed to Find Licence Sign
-  NoSpecialBlockFound: Failed to find %Block Name%
-  NoSpecialNamedBlockFound: Failed to find %Block Name%
-  NotInMovingIn: 'Must be moving into one of the following blocks: %Block Names%'
-  SyncedShip: Ship has resynced

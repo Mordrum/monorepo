@@ -1,8 +1,0 @@
-Speed:
-  Max: 10
-  Altitude: 5
-Special:
-  Block:
-    Percent: 15
-    Type:
-    - minecraft:daylight_detector
