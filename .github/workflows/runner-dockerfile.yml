@@ -60,6 +60,11 @@ jobs:
           file: .github/workflows/Dockerfile
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
+#          labels: |
+#            org.opencontainers.image.source=https://github.com/${{ github.repository }}
+#            org.opencontainers.image.revision=${{ github.sha }}
+#            org.opencontainers.image.created=${{ github.run_at }}
+#            org.opencontainers.image.version=${{ github.sha }}
           # WARN: gha is experimental https://docs.docker.com/build/ci/github-actions/examples/#github-cache
           cache-from: type=gha
           cache-to: type=gha,mode=max

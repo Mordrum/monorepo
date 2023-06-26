@@ -1,0 +1,15 @@
+{
+  "name": "@mordrum/main-website",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "deploy": "wrangler deploy",
+    "start": "wrangler dev"
+  },
+  "dependencies": {
+    "@cloudflare/kv-asset-handler": "0.3.0",
+    "wrangler": "3.1.1",
+    "@cloudflare/workers-types": "^4.20230419.0",
+    "typescript": "^5.0.4"
+  }
+}
