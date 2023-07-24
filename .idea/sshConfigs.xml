@@ -2,7 +2,7 @@
 <project version="4">
   <component name="SshConfigs">
     <configs>
-      <sshConfig authType="OPEN_SSH" host="mordrum" id="a3d6cd46-1b79-4079-96b0-74c75a43b068" port="22" nameFormat="DESCRIPTIVE" username="jesse" />
+      <sshConfig authType="OPEN_SSH" connectionConfig="{&quot;serverAliveInterval&quot;:300}" host="play.mordrum.com" id="a3d6cd46-1b79-4079-96b0-74c75a43b068" port="22" nameFormat="DESCRIPTIVE" username="opc" useOpenSSHConfig="true" />
     </configs>
   </component>
 </project>

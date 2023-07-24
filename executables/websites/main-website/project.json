@@ -1,0 +1,27 @@
+{
+  "root": "executables/websites/main-website",
+  "sourceRoot": "executables/websites/main-website/src",
+  "projectType": "application",
+  "implicitDependencies": [],
+  "targets": {
+    "deploy": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "pnpm wrangler deploy"
+        ],
+        "cwd": "executables/websites/main-website"
+      }
+    },
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": [
+          "pnpm wrangler dev"
+        ],
+        "cwd": "executables/websites/main-website"
+      }
+    },
+  },
+  "tags": []
+}

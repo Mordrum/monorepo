@@ -1,0 +1,38 @@
+name: Run Pipeline
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y ansible
+
+      - name: Set up SSH key
+        uses: webfactory/ssh-agent@v0.7.0
+        with:
+          ssh-private-key: |
+            ${{ secrets.PRIVATE_KEY }}
+
+      - name: Set execute permission on inventory file
+        run: chmod +x ansible/inventories/production ansible/inventories/staging
+
+      - name: Deploy to Staging
+        if: ${{ startsWith(github.ref, 'refs/heads/staging-') }}
+        run: |
+          ansible-playbook ansible/playbooks/deploy-to-staging.yml -i ansible/inventories/staging --user=<remote-user> --private-key=$SSH_AUTH_SOCK
+
+      - name: Deploy to Production
+        if: ${{ startsWith(github.ref, 'refs/heads/production-') }}
+        run: |
+          ansible-playbook ansible/playbooks/deploy-to-production.yml -i ansible/inventories/production --user=<remote-user> --private-key=$SSH_AUTH_SOCK

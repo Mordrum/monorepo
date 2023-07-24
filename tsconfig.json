@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "strictNullChecks": true,
+    "noUncheckedIndexedAccess": true,
+    "paths": {
+      "@mordrum/app/*": ["./libraries/business-logic/app/*"],
+      "@mordrum/ui/*": ["./libraries/visual-components/ui/src/*"]
+    }
+  },
+  "extends": "./tsconfig.base.json"
+}

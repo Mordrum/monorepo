@@ -1,0 +1,41 @@
+{
+  "root": "executables/services/mordrum-api-server",
+  "sourceRoot": "executables/services/mordrum-api-server/lib",
+  "projectType": "application",
+  "implicitDependencies": [],
+  "targets": {
+    "start": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["mix phx.server"],
+        "cwd": "executables/services/mordrum-api-server"
+      }
+    },
+    "interactive": {
+      "executor": "nx:run-commands",
+      "options": {
+        "commands": ["iex -S mix phx.server"],
+        "cwd": "executables/services/mordrum-api-server"
+      }
+    },
+    "ecto": {
+      "command": "mix ecto.create",
+      "options": {
+        "cwd": "executables/services/mordrum-api-server"
+      }
+    },
+    "test": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'Verify something?'"
+      }
+    },
+    "lint": {
+      "executor": "nx:run-commands",
+      "options": {
+        "command": "echo 'Lint something?'"
+      }
+    }
+  },
+  "tags": []
+}
